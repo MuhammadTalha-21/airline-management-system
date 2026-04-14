@@ -1,12 +1,6 @@
 # ✈️ Airline Management System
 ### Database Management Systems (DBMS) Project — PAK Airlines
 
-**Subject:** Database Management Systems (DBMS)  
-**Submitted To:** Mam Farwa Khalid  
-**Team Members:** Nahah Butt | Muhammad Talha  
-**Duration:** March 2025 – June 2025  
-**Platform:** MariaDB 10.4 | phpMyAdmin 5.0.1  
-
 ## 📌 Project Overview
 This project is a fully normalized relational database designed for managing
 core airline operations. The database, named `pak_airlines`, was built as part
